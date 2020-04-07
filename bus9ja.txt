@@ -1,0 +1,396 @@
+[
+  {
+    id: 1,
+    name: "Ifesinachi Transport "
+  },
+  {
+    id: 2,
+    name: "ABC Transport"
+  },
+  {
+    id: 3,
+    name: "GUO Transport"
+  },
+  {
+    id: 4,
+    name: "Efex Motors"
+  },
+  {
+    id: 5,
+    name: "Autostar"
+  },
+  {
+    id: 6,
+    name: "God is good motors"
+  },
+  {
+    id: 7,
+    name: "Peace mass transit"
+  },
+  {
+    id: 8,
+    name: "Libra Motors"
+  },
+  {
+    id: 9,
+    name: "Young shall grow motors"
+  },
+  {
+    id: 10,
+    name: "Cross country"
+  },
+  {
+    id: 11,
+    name: "Grace robert transport"
+  },
+  {
+    id: 12,
+    name: "Genaro express"
+  },
+  {
+    id: 13,
+    name: "Green liner"
+  },
+  {
+    id: 14,
+    name: "Sky link"
+  },
+  {
+    id: 15,
+    name: "Computers",
+    parentId: 1
+  },
+  {
+    id: 16,
+    name: "TVs",
+    parentId: 1
+  },
+  {
+    id: 17,
+    name: "Computer Accessories",
+    parentId: 1
+  },
+  {
+    id: 18,
+    name: "TVs and Cable Accessories",
+    parentId: 1
+  },
+  {
+    id: 19,
+    name: "Camera & Camcoders",
+    parentId: 1
+  },
+  {
+    id: 20,
+    name: "Audio & MP3",
+    parentId: 1
+  },
+  {
+    id: 21,
+    name: "Video Games & Consoles",
+    parentId: 1
+  },
+  {
+    id: 22,
+    name: "Cars",
+    parentId: 2
+  },
+  {
+    id: 23,
+    name: "Trucks & Vans",
+    parentId: 2
+  },
+  {
+    id: 24,
+    name: "Motorbikes",
+    parentId: 2
+  },
+  {
+    id: 25,
+    name: "Buses",
+    parentId: 2
+  },
+  {
+    id: 26,
+    name: "Boats",
+    parentId: 2
+  },
+  {
+    id: 27,
+    name: "Vechiles available for Rent",
+    parentId: 2
+  },
+  {
+    id: 28,
+    name: "Tractors & Heavy Duty Vehicles",
+    parentId: 2
+  },
+  {
+    id: 29,
+    name: "Clothes",
+    parentId: 3
+  },
+  {
+    id: 30,
+    name: "Eye Glasses",
+    parentId: 3
+  },
+  {
+    id: 31,
+    name: "Shoes",
+    parentId: 3
+  },
+  {
+    id: 32,
+    name: "Other Footwears",
+    parentId: 3
+  },
+  {
+    id: 33,
+    name: "Bags",
+    parentId: 3
+  },
+  {
+    id: 34,
+    name: "Materials",
+    parentId: 3
+  },
+  {
+    id: 35,
+    name: "Watches",
+    parentId: 3
+  },
+
+  {
+    id: 36,
+    name: "Jewellery",
+    parentId: 3
+  },
+
+  {
+    id: 37,
+    name: "Other Fashion Accessories",
+    parentId: 3
+  },
+  {
+    id: 38,
+    name: "Furniture",
+    parentId: 4
+  },
+  {
+    id: 39,
+    name: "Home Appliances",
+    parentId: 4
+  },
+  {
+    id: 40,
+    name: "Bathroom Utilities",
+    parentId: 4
+  },
+  {
+    id: 41,
+    name: "Other Home Products",
+    parentId: 4
+  },
+  {
+    id: 42,
+    name: "Land",
+    parentId: 5
+  },
+  {
+    id: 43,
+    name: "Houses",
+    parentId: 5
+  },
+  {
+    id: 44,
+    name: "Apartments",
+    parentId: 5
+  },
+  {
+    id: 45,
+    name: "Estates",
+    parentId: 5
+  },
+  {
+    id: 46,
+    name: "Commercial & Large-Scale Properties",
+    parentId: 5
+  },
+  {
+    id: 47,
+    name: "Long-term Rentals",
+    parentId: 5
+  },
+  {
+    id: 48,
+    name: "Short-term Rentals",
+    parentId: 5
+  },
+  {
+    id: 49,
+    name: "Mobile Phones",
+    parentId: 6
+  },
+  {
+    id: 50,
+    name: "Tablets",
+    parentId: 6
+  },
+  {
+    id: 51,
+    name: "Mobile Phones & Tablet Accessories",
+    parentId: 6
+  },
+  {
+    id: 52,
+    name: "Headphones & Earphones",
+    parentId: 6
+  },
+  {
+    id: 53,
+    name: "Artworks",
+    parentId: 7
+  },
+  {
+    id: 54,
+    name: "Collectibles",
+    parentId: 7
+  },
+  {
+    id: 55,
+    name: "Crafts",
+    parentId: 7
+  },
+  {
+    id: 56,
+    name: "Painting",
+    parentId: 7
+  },
+  {
+    id: 57,
+    name: "Other Artworks",
+    parentId: 7
+  },
+  {
+    id: 58,
+    name: "Food",
+    parentId: 9
+  },
+  {
+    id: 59,
+    name: "Chemicals",
+    parentId: 9
+  },
+  {
+    id: 60,
+    name: "Crops, Seeds & Plants",
+    parentId: 9
+  },
+  {
+    id: 61,
+    name: "Other Food & Agricultural Products",
+    parentId: 9
+  },
+  {
+    id: 62,
+    name: "Books",
+    parentId: 10
+  },
+  {
+    id: 63,
+    name: "Textbooks",
+    parentId: 10
+  },
+  {
+    id: 64,
+    name: "Stationaries",
+    parentId: 10
+  },
+  {
+    id: 65,
+    name: "Schools",
+    parentId: 10
+  },
+  {
+    id: 66,
+    name: "Tutors & Teachers",
+    parentId: 10
+  },
+  {
+    id: 67,
+    name: "Kids Clothes & Footwears",
+    parentId: 11
+  },
+  {
+    id: 68,
+    name: "Other Kids items",
+    parentId: 11
+  },
+  {
+    id: 69,
+    name: "Toys",
+    parentId: 11
+  },
+  {
+    id: 70,
+    name: "Locallly-made Machines",
+    parentId: 12
+  },
+  {
+    id: 71,
+    name: "Musical Instruments",
+    parentId: 12
+  },
+  {
+    id: 72,
+    name: "Costimetics",
+    parentId: 13
+  },
+  {
+    id: 73,
+    name: "Hair",
+    parentId: 13
+  },
+  {
+    id: 74,
+    name: "Other beauty related products",
+    parentId: 13
+  },
+  {
+    id: 75,
+    name: "Pets",
+    parentId: 14
+  },
+  {
+    id: 76,
+    name: "Farm Animals",
+    parentId: 14
+  },
+  {
+    id: 77,
+    name: "Food for Pets",
+    parentId: 14
+  },
+  {
+    id: 78,
+    name: "Food for Farm Animals",
+    parentId: 14
+  },
+  {
+    id: 79,
+    name: "Pet Grooming",
+    parentId: 14
+  },
+  {
+    id: 80,
+    name: "Vetinary Services",
+    parentId: 14
+  },
+  {
+    id: 81,
+    name: "Other Animal-related Services",
+    parentId: 14
+  }
+]
+
